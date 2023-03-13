@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "Name": "Tao la Quyen ipad update",
+      "Categories": "Dien thoai",
+      "Description": "hello",
+      "Images": "",
+      "RegularPrice": "10100101010",
+      "id": 4
+    },
+    {
+      "Name": "Quyen day ne",
+      "Categories": "Dienthoai",
+      "Description": "ádasda",
+      "Images": [
+        "https://res.cloudinary.com/doorujhxj/image/upload/v1678680395/onthiECMA/x0g5n2lnh5stllpvogvo.webp",
+        "https://res.cloudinary.com/doorujhxj/image/upload/v1678680397/onthiECMA/qm3a0s7o0ok3obdmzjti.webp"
+      ],
+      "RegularPrice": "231321",
+      "id": 8
+    },
+    {
+      "Name": "Quyền đẹp trai thế update",
+      "Categories": "Dien thoai",
+      "Description": "ádasa",
+      "Images": "",
+      "RegularPrice": "",
+      "id": 9
+    }
+  ]
+}
